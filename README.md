@@ -1,4 +1,4 @@
-# Proiect-Python
+# Find-command
 
 In urmatorul proiect am realizat comanda find din linux 
 
